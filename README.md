@@ -1,3 +1,7 @@
+# Warning of responsibility 
+- This tool is created solely for informational purposes, and does not carry calls for any actions
+- We do not bring responsibility, but you are warned
+
 ## :computer: Prepare  Environment
 Install [Node.js](https://nodejs.org/en/download/)
 
