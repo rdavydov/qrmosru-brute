@@ -11,7 +11,9 @@ type Count = number;
 const count: Count = 100;
 
 (async () => {
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({
+    defaultViewport: { width: 300, height: 300 },
+  });
   const page = await browser.newPage();
   for (let i = 0; i < count; i++) {
     await page.goto(
