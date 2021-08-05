@@ -8,3 +8,6 @@ Install [Node.js](https://nodejs.org/en/download/)
 
 ## :star: Run
 ``` npm start``` or ```yarn run start```
+
+## Statistics
+![](https://komarev.com/ghpvc/?username=qrmosru-brute)
