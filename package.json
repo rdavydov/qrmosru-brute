@@ -1,0 +1,12 @@
+{
+  "name": "qrmosru-brute",
+  "private": true,
+  "scripts": {
+    "install": "lerna bootstrap",
+    "start": "lerna run --scope app start",
+    "clear": "lerna run --scope app clear"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
