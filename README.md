@@ -6,6 +6,7 @@
 Install [Node.js](https://nodejs.org/en/download/)
 
 ## :octocat: Clone project or [download it](https://github.com/milksense/qrmosru-brute/archive/refs/heads/main.zip)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/milksense/qrmosru-brute)
 
 ## :rocket: Install 
 ```npm i``` or ```yarn install```
