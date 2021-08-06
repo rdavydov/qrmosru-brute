@@ -13,5 +13,9 @@ Install [Node.js](https://nodejs.org/en/download/)
 ## :star: Run
 ``` npm start``` or ```yarn run start```
 
+## Result
+
+```qrmosru-brute/packages/app/dist``` directory
+
 ## Statistics
 ![](https://komarev.com/ghpvc/?username=qrmosru-brute)
